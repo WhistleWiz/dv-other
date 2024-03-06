@@ -2,8 +2,8 @@
   "Releases": [
     {
       "Id": "CC_FastFood",
-      "Version": "1.2.0",
-      "DownloadUrl": ""
+      "Version": "1.3.0",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/CC_FastFood/v1.3.0/CC_FastFood.zip"
     }
   ]
 }
