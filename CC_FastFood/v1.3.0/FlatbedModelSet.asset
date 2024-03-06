@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2009805104, guid: 6ef09cb1d585caf448a35acf65f65452, type: 3}
+  m_Name: FlatbedModelSet
+  m_EditorClassIdentifier: 
+  CarType: 200
+  Prefabs:
+  - {fileID: 8734361466696889318, guid: 5ecbed0004f7e3942b62ac8b97163fb6, type: 3}
+  - {fileID: 9155008146304042932, guid: 9568d9f28e01690489f684d9f2ce98ea, type: 3}

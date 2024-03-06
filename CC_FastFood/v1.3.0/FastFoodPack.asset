@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1195604488, guid: 379eaff8c47b95146881f98d0d2b5156, type: 3}
+  m_Name: FastFoodPack
+  m_EditorClassIdentifier: 
+  PackName: Fast Food
+  Author: Wiz
+  Version: 1.3.0
+  HomePage: https://github.com/WhistleWiz
+  Repository: https://raw.githubusercontent.com/WhistleWiz/dv-other/main/CC_FastFood/repository.json
+  Cargos:
+  - {fileID: 11400000, guid: 7d98ec84bef1fd041b50372ba798dc6c, type: 2}
+  - {fileID: 11400000, guid: 7e35605988a33084588587258812a90a, type: 2}
+  - {fileID: 11400000, guid: f9b670ac27b65434b9b5de35f617d614, type: 2}
+  - {fileID: 11400000, guid: 729c38dabd756864fa6bd681c28ad951, type: 2}
+  UseSingleBundle: 1
