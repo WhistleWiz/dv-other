@@ -1,0 +1,9 @@
+{
+  "Releases": [    
+    {
+      "Id": "EuroBogies",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/refs/heads/main/EuroBogies/v1.0.0/EuroBogies.zip"
+    }
+  ]
+}
