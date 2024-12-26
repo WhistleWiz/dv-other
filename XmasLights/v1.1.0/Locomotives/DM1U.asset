@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -971938633, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: DM1U
+  m_EditorClassIdentifier: 
+  ModificationId: XmasLights
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Xmas Lights
+  IncompatibleModifications: []
+  ForcePrefabReloadOnApply: 0
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Xmas Lights\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 2041483165437344105, guid: 6e6ab6e8c7ae4b34286fd39167fef2ab,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 0}
+  ItemsCollider: {fileID: 0}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  UseCustomBogies: 0
+  WheelRadius: 0.42
+  FrontBogie: {fileID: 0}
+  RearBogie: {fileID: 0}
+  ResetBogiesToDefaultButton: 0
+  DoorRear: {fileID: 0}
+  HideOriginalDoors: 0
+  DoorInterior: {fileID: 0}
+  HideOriginalInteriorDoor: 0
+  UseCustomFrontHeadlights: 0
+  FrontSettings:
+    WhiteTopMesh: {fileID: 0}
+    WhiteLowMesh: {fileID: 0}
+    RedMesh: {fileID: 0}
+    HighBeamPosition: {x: 0, y: 1.535, z: 6.736}
+    LowBeamPosition: {x: 0, y: 1.535, z: 6.736}
+    TopGlarePosition: {x: 0, y: 2.928, z: 6.496}
+    LeftGlarePosition: {x: -0.881, y: 1.535, z: 6.736}
+    RightGlarePosition: {x: 0.881, y: 1.535, z: 6.736}
+    RedLeftGlarePosition: {x: -0.881, y: 1.339, z: 6.667}
+    RedRightGlarePosition: {x: 0.881, y: 1.339, z: 6.667}
+  _resetFrontButton: 0
+  UseCustomRearHeadlights: 0
+  RearSettings:
+    WhiteTopMesh: {fileID: 0}
+    WhiteLowMesh: {fileID: 0}
+    RedMesh: {fileID: 0}
+    HighBeamPosition: {x: 0, y: 2.084, z: -6.678}
+    LowBeamPosition: {x: 0, y: 2.084, z: -6.678}
+    TopGlarePosition: {x: 0, y: 0, z: 0}
+    LeftGlarePosition: {x: -1.329, y: 2.084, z: -6.675}
+    RightGlarePosition: {x: 1.329, y: 2.084, z: -6.675}
+    RedLeftGlarePosition: {x: -1.329, y: 1.882, z: -6.675}
+    RedRightGlarePosition: {x: 1.329, y: 1.882, z: -6.675}
+  _resetRearButton: 0
+  HideDash: 0
+  _frontHeadlights: "{\r\n  \"HighBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    1.535,\r\n    \"z\": 6.736,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.2221841,\r\n      \"z\": 0.9750047,\r\n      \"normalized\": {\r\n       
+    \"x\": 0.0,\r\n        \"y\": 0.222184122,\r\n        \"z\": 0.975004733,\r\n       
+    \"magnitude\": 1.0,\r\n        \"sqrMagnitude\": 1.0\r\n      },\r\n      \"magnitude\":
+    0.99999994,\r\n      \"sqrMagnitude\": 0.9999999\r\n    },\r\n    \"magnitude\":
+    6.90868473,\r\n    \"sqrMagnitude\": 47.7299232\r\n  },\r\n  \"LowBeamPosition\":
+    {\r\n    \"x\": 0.0,\r\n    \"y\": 1.535,\r\n    \"z\": 6.736,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.0,\r\n      \"y\": 0.2221841,\r\n      \"z\": 0.9750047,\r\n     
+    \"normalized\": {\r\n        \"x\": 0.0,\r\n        \"y\": 0.222184122,\r\n       
+    \"z\": 0.975004733,\r\n        \"magnitude\": 1.0,\r\n        \"sqrMagnitude\":
+    1.0\r\n      },\r\n      \"magnitude\": 0.99999994,\r\n      \"sqrMagnitude\":
+    0.9999999\r\n    },\r\n    \"magnitude\": 6.90868473,\r\n    \"sqrMagnitude\":
+    47.7299232\r\n  },\r\n  \"TopGlarePosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    2.928,\r\n    \"z\": 6.496,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.410924822,\r\n      \"z\": 0.911669254,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 7.125391,\r\n    \"sqrMagnitude\":
+    50.7712\r\n  },\r\n  \"LeftGlarePosition\": {\r\n    \"x\": -0.881,\r\n    \"y\":
+    1.535,\r\n    \"z\": 6.736,\r\n    \"normalized\": {\r\n      \"x\": -0.1264963,\r\n     
+    \"y\": 0.220399335,\r\n      \"z\": 0.9671726,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.00000012\r\n    },\r\n    \"magnitude\": 6.9646306,\r\n   
+    \"sqrMagnitude\": 48.5060844\r\n  },\r\n  \"RightGlarePosition\": {\r\n    \"x\":
+    0.881,\r\n    \"y\": 1.535,\r\n    \"z\": 6.736,\r\n    \"normalized\": {\r\n     
+    \"x\": 0.1264963,\r\n      \"y\": 0.220399335,\r\n      \"z\": 0.9671726,\r\n     
+    \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 1.00000012\r\n    },\r\n    \"magnitude\":
+    6.9646306,\r\n    \"sqrMagnitude\": 48.5060844\r\n  },\r\n  \"RedLeftGlarePosition\":
+    {\r\n    \"x\": -0.881,\r\n    \"y\": 1.339,\r\n    \"z\": 6.667,\r\n    \"normalized\":
+    {\r\n      \"x\": -0.128482491,\r\n      \"y\": 0.195275888,\r\n      \"z\":
+    0.972296,\r\n      \"normalized\": {\r\n        \"x\": -0.1284825,\r\n       
+    \"y\": 0.1952759,\r\n        \"z\": 0.972296059,\r\n        \"magnitude\": 1.0,\r\n       
+    \"sqrMagnitude\": 1.0\r\n      },\r\n      \"magnitude\": 0.99999994,\r\n     
+    \"sqrMagnitude\": 0.99999994\r\n    },\r\n    \"magnitude\": 6.856965,\r\n   
+    \"sqrMagnitude\": 47.0179672\r\n  },\r\n  \"RedRightGlarePosition\": {\r\n   
+    \"x\": 0.881,\r\n    \"y\": 1.339,\r\n    \"z\": 6.667,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.128482491,\r\n      \"y\": 0.195275888,\r\n      \"z\": 0.972296,\r\n     
+    \"normalized\": {\r\n        \"x\": 0.1284825,\r\n        \"y\": 0.1952759,\r\n       
+    \"z\": 0.972296059,\r\n        \"magnitude\": 1.0,\r\n        \"sqrMagnitude\":
+    1.0\r\n      },\r\n      \"magnitude\": 0.99999994,\r\n      \"sqrMagnitude\":
+    0.99999994\r\n    },\r\n    \"magnitude\": 6.856965,\r\n    \"sqrMagnitude\":
+    47.0179672\r\n  }\r\n}"
+  _rearHeadlights: "{\r\n  \"HighBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    2.084,\r\n    \"z\": -6.678,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.297900558,\r\n      \"z\": -0.9545969,\r\n      \"normalized\": {\r\n       
+    \"x\": 0.0,\r\n        \"y\": 0.2979006,\r\n        \"z\": -0.954596937,\r\n       
+    \"magnitude\": 1.0,\r\n        \"sqrMagnitude\": 1.00000012\r\n      },\r\n     
+    \"magnitude\": 0.99999994,\r\n      \"sqrMagnitude\": 0.99999994\r\n    },\r\n   
+    \"magnitude\": 6.995623,\r\n    \"sqrMagnitude\": 48.93874\r\n  },\r\n  \"LowBeamPosition\":
+    {\r\n    \"x\": 0.0,\r\n    \"y\": 2.084,\r\n    \"z\": -6.678,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.0,\r\n      \"y\": 0.297900558,\r\n      \"z\": -0.9545969,\r\n     
+    \"normalized\": {\r\n        \"x\": 0.0,\r\n        \"y\": 0.2979006,\r\n       
+    \"z\": -0.954596937,\r\n        \"magnitude\": 1.0,\r\n        \"sqrMagnitude\":
+    1.00000012\r\n      },\r\n      \"magnitude\": 0.99999994,\r\n      \"sqrMagnitude\":
+    0.99999994\r\n    },\r\n    \"magnitude\": 6.995623,\r\n    \"sqrMagnitude\":
+    48.93874\r\n  },\r\n  \"TopGlarePosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    0.0,\r\n    \"z\": 0.0,\r\n    \"magnitude\": 0.0,\r\n    \"sqrMagnitude\": 0.0\r\n 
+    },\r\n  \"LeftGlarePosition\": {\r\n    \"x\": -1.329,\r\n    \"y\": 2.084,\r\n   
+    \"z\": -6.675,\r\n    \"normalized\": {\r\n      \"x\": -0.1867116,\r\n     
+    \"y\": 0.29278177,\r\n      \"z\": -0.9377727,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 7.11793,\r\n    \"sqrMagnitude\":
+    50.6649246\r\n  },\r\n  \"RightGlarePosition\": {\r\n    \"x\": 1.329,\r\n   
+    \"y\": 2.084,\r\n    \"z\": -6.675,\r\n    \"normalized\": {\r\n      \"x\":
+    0.1867116,\r\n      \"y\": 0.29278177,\r\n      \"z\": -0.9377727,\r\n      \"magnitude\":
+    1.0,\r\n      \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 7.11793,\r\n   
+    \"sqrMagnitude\": 50.6649246\r\n  },\r\n  \"RedLeftGlarePosition\": {\r\n   
+    \"x\": -1.329,\r\n    \"y\": 1.882,\r\n    \"z\": -6.675,\r\n    \"normalized\":
+    {\r\n      \"x\": -0.18820551,\r\n      \"y\": 0.266518265,\r\n      \"z\": -0.945275962,\r\n     
+    \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 0.99999994\r\n    },\r\n    \"magnitude\":
+    7.06143,\r\n    \"sqrMagnitude\": 49.8637924\r\n  },\r\n  \"RedRightGlarePosition\":
+    {\r\n    \"x\": 1.329,\r\n    \"y\": 1.882,\r\n    \"z\": -6.675,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.18820551,\r\n      \"y\": 0.266518265,\r\n      \"z\": -0.945275962,\r\n     
+    \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 0.99999994\r\n    },\r\n    \"magnitude\":
+    7.06143,\r\n    \"sqrMagnitude\": 49.8637924\r\n  }\r\n}"
+  _fwh: {fileID: 0}
+  _fwl: {fileID: 0}
+  _fr: {fileID: 0}
+  _rwh: {fileID: 0}
+  _rwl: {fileID: 0}
+  _rr: {fileID: 0}

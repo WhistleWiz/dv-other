@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 689836052, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: DH4
+  m_EditorClassIdentifier: 
+  ModificationId: XmasLights
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Xmas Lights
+  IncompatibleModifications: []
+  ForcePrefabReloadOnApply: 0
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Xmas Lights\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 2041483165437344105, guid: a3715c8cb4e55db4e8f2683b7c541349,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 0}
+  ItemsCollider: {fileID: 0}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  UseCustomBogies: 0
+  WheelRadius: 0.5335
+  FrontBogie: {fileID: 0}
+  RearBogie: {fileID: 0}
+  ResetBogiesToDefaultButton: 0
+  DoorLeft: {fileID: 0}
+  DoorRight: {fileID: 0}
+  DoorLeftExploded: {fileID: 0}
+  DoorRightExploded: {fileID: 0}
+  HideOriginalDoors: 0
+  WindowLeft: {fileID: 0}
+  WindowRight: {fileID: 0}
+  WindowLeftExploded: {fileID: 0}
+  WindowRightExploded: {fileID: 0}
+  HideOriginalWindows: 0
+  UseCustomFrontHeadlights: 0
+  FrontSettings:
+    WhiteHighBeamMesh: {fileID: 0}
+    WhiteLowBeamMesh: {fileID: 0}
+    RedMesh: {fileID: 0}
+    HighBeamPosition: {x: 0, y: 3.9342, z: 1.0234}
+    LowBeamPosition: {x: 0, y: 1.4577, z: 6.16}
+    TopGlarePosition: {x: 0, y: 3.9342, z: 1.008}
+    LeftGlarePosition: {x: -0.52, y: 1.4577, z: 6.1342}
+    RightGlarePosition: {x: 0.52, y: 1.4577, z: 6.1342}
+    RedLeftGlarePosition: {x: -0.795, y: 1.4577, z: 6.0825}
+    RedRightGlarePosition: {x: 0.795, y: 1.4577, z: 6.0825}
+  _resetFrontButton: 0
+  UseCustomRearHeadlights: 0
+  RearSettings:
+    WhiteHighBeamMesh: {fileID: 0}
+    WhiteLowBeamMesh: {fileID: 0}
+    RedMesh: {fileID: 0}
+    HighBeamPosition: {x: 0, y: 3.9342, z: -5.394}
+    LowBeamPosition: {x: 0, y: 1.4577, z: -6.16}
+    TopGlarePosition: {x: 0, y: 3.034, z: -5.41}
+    LeftGlarePosition: {x: -0.519, y: 1.4577, z: -6.1342}
+    RightGlarePosition: {x: 0.52, y: 1.4577, z: -6.1342}
+    RedLeftGlarePosition: {x: -0.7929, y: 1.4577, z: -6.0825}
+    RedRightGlarePosition: {x: 0.7932, y: 1.4577, z: -6.0825}
+  _resetRearButton: 0
+  _frontHeadlights: "{\r\n  \"HighBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    3.9342,\r\n    \"z\": 1.0234,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.9677921,\r\n      \"z\": 0.2517509,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 4.06512928,\r\n    \"sqrMagnitude\":
+    16.5252781\r\n  },\r\n  \"LowBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    1.4577,\r\n    \"z\": 6.16,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.2302798,\r\n      \"z\": 0.973124444,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 6.33012533,\r\n    \"sqrMagnitude\":
+    40.070488\r\n  },\r\n  \"TopGlarePosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    3.9342,\r\n    \"z\": 1.008,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.9687094,\r\n      \"z\": 0.24819763,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 4.06128,\r\n    \"sqrMagnitude\":
+    16.4939938\r\n  },\r\n  \"LeftGlarePosition\": {\r\n    \"x\": -0.52,\r\n   
+    \"y\": 1.4577,\r\n    \"z\": 6.1342,\r\n    \"normalized\": {\r\n      \"x\":
+    -0.0821948647,\r\n      \"y\": 0.230414346,\r\n      \"z\": 0.969615,\r\n     
+    \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\":
+    6.326429,\r\n    \"sqrMagnitude\": 40.0237\r\n  },\r\n  \"RightGlarePosition\":
+    {\r\n    \"x\": 0.52,\r\n    \"y\": 1.4577,\r\n    \"z\": 6.1342,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.0821948647,\r\n      \"y\": 0.230414346,\r\n      \"z\":
+    0.969615,\r\n      \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 1.0\r\n   
+    },\r\n    \"magnitude\": 6.326429,\r\n    \"sqrMagnitude\": 40.0237\r\n  },\r\n 
+    \"RedLeftGlarePosition\": {\r\n    \"x\": -0.795,\r\n    \"y\": 1.4577,\r\n   
+    \"z\": 6.0825,\r\n    \"normalized\": {\r\n      \"x\": -0.1260893,\r\n     
+    \"y\": 0.23119545,\r\n      \"z\": 0.9647021,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 6.305055,\r\n    \"sqrMagnitude\":
+    39.75372\r\n  },\r\n  \"RedRightGlarePosition\": {\r\n    \"x\": 0.795,\r\n   
+    \"y\": 1.4577,\r\n    \"z\": 6.0825,\r\n    \"normalized\": {\r\n      \"x\":
+    0.1260893,\r\n      \"y\": 0.23119545,\r\n      \"z\": 0.9647021,\r\n      \"magnitude\":
+    1.0,\r\n      \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 6.305055,\r\n   
+    \"sqrMagnitude\": 39.75372\r\n  }\r\n}"
+  _rearHeadlights: "{\r\n  \"HighBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    3.9342,\r\n    \"z\": -5.394,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.589277267,\r\n      \"z\": -0.8079309,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 6.676314,\r\n    \"sqrMagnitude\":
+    44.5731659\r\n  },\r\n  \"LowBeamPosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    1.4577,\r\n    \"z\": -6.16,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.2302798,\r\n      \"z\": -0.973124444,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.0\r\n    },\r\n    \"magnitude\": 6.33012533,\r\n    \"sqrMagnitude\":
+    40.070488\r\n  },\r\n  \"TopGlarePosition\": {\r\n    \"x\": 0.0,\r\n    \"y\":
+    3.034,\r\n    \"z\": -5.41,\r\n    \"normalized\": {\r\n      \"x\": 0.0,\r\n     
+    \"y\": 0.4891433,\r\n      \"z\": -0.872203469,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.00000012\r\n    },\r\n    \"magnitude\": 6.202681,\r\n   
+    \"sqrMagnitude\": 38.4732552\r\n  },\r\n  \"LeftGlarePosition\": {\r\n    \"x\":
+    -0.519,\r\n    \"y\": 1.4577,\r\n    \"z\": -6.1342,\r\n    \"normalized\": {\r\n     
+    \"x\": -0.08203787,\r\n      \"y\": 0.230417356,\r\n      \"z\": -0.9696276,\r\n     
+    \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 1.00000012\r\n    },\r\n    \"magnitude\":
+    6.3263464,\r\n    \"sqrMagnitude\": 40.02266\r\n  },\r\n  \"RightGlarePosition\":
+    {\r\n    \"x\": 0.52,\r\n    \"y\": 1.4577,\r\n    \"z\": -6.1342,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.0821948647,\r\n      \"y\": 0.230414346,\r\n      \"z\":
+    -0.969615,\r\n      \"magnitude\": 1.0,\r\n      \"sqrMagnitude\": 1.0\r\n   
+    },\r\n    \"magnitude\": 6.326429,\r\n    \"sqrMagnitude\": 40.0237\r\n  },\r\n 
+    \"RedLeftGlarePosition\": {\r\n    \"x\": -0.7929,\r\n    \"y\": 1.4577,\r\n   
+    \"z\": -6.0825,\r\n    \"normalized\": {\r\n      \"x\": -0.125761524,\r\n     
+    \"y\": 0.23120515,\r\n      \"z\": -0.9647426,\r\n      \"magnitude\": 1.0,\r\n     
+    \"sqrMagnitude\": 1.00000012\r\n    },\r\n    \"magnitude\": 6.3047905,\r\n   
+    \"sqrMagnitude\": 39.7503853\r\n  },\r\n  \"RedRightGlarePosition\": {\r\n   
+    \"x\": 0.7932,\r\n    \"y\": 1.4577,\r\n    \"z\": -6.0825,\r\n    \"normalized\":
+    {\r\n      \"x\": 0.125808343,\r\n      \"y\": 0.23120375,\r\n      \"z\": -0.96473676,\r\n     
+    \"normalized\": {\r\n        \"x\": 0.125808358,\r\n        \"y\": 0.231203765,\r\n       
+    \"z\": -0.9647368,\r\n        \"magnitude\": 1.0,\r\n        \"sqrMagnitude\":
+    1.0\r\n      },\r\n      \"magnitude\": 0.99999994,\r\n      \"sqrMagnitude\":
+    0.99999994\r\n    },\r\n    \"magnitude\": 6.30482864,\r\n    \"sqrMagnitude\":
+    39.7508621\r\n  }\r\n}"
+  _fwh: {fileID: 0}
+  _fwl: {fileID: 0}
+  _fr: {fileID: 0}
+  _rwh: {fileID: 0}
+  _rwl: {fileID: 0}
+  _rr: {fileID: 0}
