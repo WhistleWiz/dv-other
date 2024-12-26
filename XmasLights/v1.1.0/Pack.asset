@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1237020379, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: Pack
+  m_EditorClassIdentifier: 
+  ModId: XmasLights
+  ModName: Xmas Lights
+  Author: Wiz
+  Version: 1.1.0
+  HomePage: https://github.com/WhistleWiz
+  Repository: https://raw.githubusercontent.com/WhistleWiz/dv-other/refs/heads/main/XmasLights/repository.json
+  AdditionalRequirements: []
+  PackConfigs:
+  - {fileID: 11400000, guid: 0027e21cecacd5a408da0a0ad6973abf, type: 2}
+  - {fileID: 11400000, guid: c5a5af36c1bee784d82a051a51c0a642, type: 2}
+  - {fileID: 11400000, guid: 95ef46b0c14e8d341a261eaf03528915, type: 2}
+  - {fileID: 11400000, guid: eb336f84969d98a4e9fe325724ff0f21, type: 2}
+  - {fileID: 11400000, guid: 6fac3e4fb4272184db8d5b5d59a2d708, type: 2}
+  - {fileID: 11400000, guid: 6cfe6c2a1159c934d9858b4b547c47f9, type: 2}
+  - {fileID: 11400000, guid: 184afd3ccc46ccc4d99fc7b4a7fab752, type: 2}
+  - {fileID: 11400000, guid: e0f949d655feb6a448e95bfb371424f8, type: 2}
+  - {fileID: 11400000, guid: 480e95bc3e3ba3f48a47ee89e1c527d4, type: 2}
+  - {fileID: 11400000, guid: 905c2020f79391d4d87ea844ba087fab, type: 2}
+  - {fileID: 11400000, guid: fc8c611a3c3b45b4b9bb5840ed9aa5ed, type: 2}
+  - {fileID: 11400000, guid: b51786473bd024f4f98a7584404e9d62, type: 2}
+  - {fileID: 11400000, guid: 3f1b4fee11c90c24d805849a9e1fafde, type: 2}
+  - {fileID: 11400000, guid: 1a50680fe597f59428ca790bb94269ce, type: 2}
+  - {fileID: 11400000, guid: f86e0b341e8c37e43bc9f23f099e342f, type: 2}
+  - {fileID: 11400000, guid: c3c11f210716893488d211f3d55f3c73, type: 2}
+  - {fileID: 11400000, guid: bbcf6566f3055364897318321ebb38e8, type: 2}
+  - {fileID: 11400000, guid: 5c5e47dde221f7c46929c22031238177, type: 2}
+  - {fileID: 11400000, guid: 766c14adf8b984d4b9e3ebaec93db0bb, type: 2}
+  - {fileID: 11400000, guid: 47adb6722150ec940bfc8f2df3b73a44, type: 2}
+  - {fileID: 11400000, guid: af8f6620065dd34459e853dcdbfae1f8, type: 2}
+  - {fileID: 11400000, guid: 11c20cebc204d544aa6a40af90272b13, type: 2}
+  - {fileID: 11400000, guid: ab621bab979a04947976581c04710c96, type: 2}
+  - {fileID: 11400000, guid: 2e5a096056695164e8a87c92ec5e3693, type: 2}
+  - {fileID: 11400000, guid: 3a6c63480d2be1141846988125438aad, type: 2}
+  - {fileID: 11400000, guid: a09499416dfb0494189409837b400ca4, type: 2}
+  - {fileID: 11400000, guid: 08eed18a1f518794ab876d5cfadacdb1, type: 2}
+  - {fileID: 11400000, guid: 2736f4a707b45f546bde12a3c455041d, type: 2}
+  - {fileID: 11400000, guid: 3b58619aa13a85c4fafbda561f142c4b, type: 2}
+  - {fileID: 11400000, guid: 87a4a654521c59b4abf1e8d8bf0389ed, type: 2}
+  - {fileID: 11400000, guid: e59d96b3670ac6542ae1abb8487621a9, type: 2}
+  - {fileID: 11400000, guid: 41a9eb60a19e7264daf47fea1c66667f, type: 2}
+  - {fileID: 11400000, guid: 63b991edfa7ea8343b7fd6405584359b, type: 2}
+  - {fileID: 11400000, guid: d1da2567785de354c83098da2474be81, type: 2}
+  - {fileID: 11400000, guid: d510fb0b9d01c754a9832c58c75c6ab3, type: 2}
+  - {fileID: 11400000, guid: 8ffcb5edc832f9c459c36a8405a0c115, type: 2}
+  - {fileID: 11400000, guid: 53a623bf218fba34f80cae4e2024e2e4, type: 2}
+  - {fileID: 11400000, guid: 2b6e0ec4389bda045a7189d1683e1d16, type: 2}
+  - {fileID: 11400000, guid: 489548fe65954d04ebab4bae67540ae8, type: 2}
+  - {fileID: 11400000, guid: c211a4556379c36449f583834a449c7e, type: 2}
+  - {fileID: 11400000, guid: 3eeb1ac787fe74341838cc045535a18f, type: 2}
+  - {fileID: 11400000, guid: d0583a359ae9b8a4eb6ef6f912d07a7e, type: 2}
+  - {fileID: 11400000, guid: c15c5715eda520d48b5dffb60017c1ad, type: 2}
+  - {fileID: 11400000, guid: 6b8caa9fa4a7c784fa3bb9f9043b07c0, type: 2}
+  - {fileID: 11400000, guid: 63e08fba618393946b27c8e5de09c789, type: 2}
+  - {fileID: 11400000, guid: 6d3717f5d1d1b8243b7e3cb48266d768, type: 2}
+  - {fileID: 11400000, guid: 8115871003bb3144f95260fda82c215c, type: 2}
+  - {fileID: 11400000, guid: 526d21df0c780b94b873020bff3d740c, type: 2}
+  - {fileID: 11400000, guid: 69274468ce17af64a8473f0e84bed7ef, type: 2}
+  - {fileID: 11400000, guid: 69b6a99a64209054e8ea97658c304fe4, type: 2}
+  - {fileID: 11400000, guid: b5101edbd4535f94c8a64d5fad969141, type: 2}
+  - {fileID: 11400000, guid: 7a8fec8263784484ebb0cebb357ec7b1, type: 2}
