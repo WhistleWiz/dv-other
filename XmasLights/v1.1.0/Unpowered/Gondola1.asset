@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1137206430, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: Gondola1
+  m_EditorClassIdentifier: 
+  ModificationId: XmasGondola1
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Xmas Lights 1
+  IncompatibleModifications:
+  - XmasGondola2
+  - XmasGondola3
+  ForcePrefabReloadOnApply: 0
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Xmas Lights 1\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 2041483165437344105, guid: 3893cd66a738cdf43936d07e94fd81ad,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 0}
+  ItemsCollider: {fileID: 0}
+  UseCustomBogies: 0
+  WheelRadius: 0.459
+  FrontBogie: {fileID: 0}
+  RearBogie: {fileID: 0}
+  ResetBogiesToDefaultButton: 0
+  CarType: 550
+  CarLivery: 200
