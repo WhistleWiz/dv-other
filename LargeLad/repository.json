@@ -1,6 +1,11 @@
 {
   "Releases": [
-      {
+    {
+      "Id": "LargeLad",
+      "Version": "1.0.2",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/LargeLad/v1.0.2/Large Lad.zip"
+    },
+    {
       "Id": "LargeLad",
       "Version": "1.0.1",
       "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/LargeLad/v1.0.1/Large Lad.zip"
