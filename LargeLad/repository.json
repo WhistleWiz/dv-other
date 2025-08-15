@@ -1,0 +1,14 @@
+{
+  "Releases": [
+      {
+      "Id": "CC_FastFood",
+      "Version": "1.0.1",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/LargeLad/v1.0.1/Large Lad.zip"
+    },
+    {
+      "Id": "CC_FastFood",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/LargeLad/v1.0.0/Large Lad.zip"
+    }
+  ]
+}
