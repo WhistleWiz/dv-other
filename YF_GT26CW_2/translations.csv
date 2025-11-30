@@ -1,6 +1,6 @@
 Key,Description,English,Czech,Danish,German,Spanish,Finnish,French,Hindi,Hungarian,Italian,Japanese,Korean,Norwegian,Dutch,Polish,Portuguese,Portuguese (Brazil),Romanian,Russian,Slovak,Swedish,Turkish,Ukrainian,Chinese (Simplified),Chinese (Traditional)
 ,,en,cs,da,de,es,fi,fr,hi,hu,it,ja,ko,nb,nl,pl,pt,pt-br,ro,ru,sk,sv,tr,uk,zh-CN,zh-TW
-gt26cw-2/fuse_pzb,,PZB,,,,,,,,,,,,,,,Fogueiro,,,,,,,,自动加煤机,
+gt26cw-2/fuse_pzb,,PZB,,,,,,,,,,,,,,,,,,,,,,,,
 gt26cw-2/reset,,Reset,,,,,,,,,,,,,,,,,,,,,,,,
 gt26cw-2/fuse_lights,,Lights,,,,,,,,,,,,,,,,,,,,,,,,
 gt26cw-2/lights_number_f,,Numbers F,,,,,,,,,,,,,,,,,,,,,,,,
