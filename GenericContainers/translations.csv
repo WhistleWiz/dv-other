@@ -1,0 +1,12 @@
+Key,Description,English,Czech,Danish,German,Spanish,Finnish,French,Hindi,Hungarian,Italian,Japanese,Korean,Norwegian,Dutch,Polish,Portuguese,Portuguese (Brazil),Romanian,Russian,Slovak,Swedish,Turkish,Ukrainian,Chinese (Simplified),Chinese (Traditional)
+,,en,cs,da,de,es,fi,fr,hi,hu,it,ja,ko,nb,nl,pl,pt,pt-br,ro,ru,sk,sv,tr,uk,zh-CN,zh-TW
+customcargo/emptycontainers,,Empty Containers,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/emptycontainers_short,,Containers,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericchemicals,,shipment of Chemicals,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericchemicals_short,,Chemicals,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericclothing,,shipment of Apparel & Footwear,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericclothing_short,,Apparel,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericelectronics,,shipment of Electronics,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/genericelectronics_short,,Electronics,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/generictools,,shipment of Tooling,,,,,,,,,,,,,,,,,,,,,,,,
+customcargo/generictools_short,,Tooling,,,,,,,,,,,,,,,,,,,,,,,,
