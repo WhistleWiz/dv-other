@@ -1,7 +1,7 @@
 {
   "Releases": [
     {
-      "Id": "CC_FastFood",
+      "Id": "CC_GenericContainerCargo",
       "Version": "1.0.0",
       "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/GenericContainers/v1.0.0/CC_GenericContainerCargo.zip"
     }
