@@ -1,0 +1,9 @@
+{
+  "Releases": [
+    {
+      "Id": "Clean_Passenger",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/main/CleanPassenger/v1.0.0/CleanPassenger.zip"
+    }
+  ]
+}
