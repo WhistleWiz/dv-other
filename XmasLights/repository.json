@@ -2,6 +2,11 @@
   "Releases": [
     {
       "Id": "XmasLights",
+      "Version": "1.3.0",
+      "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/refs/heads/main/XmasLights/v1.3.0/XmasLights.zip"
+    },
+    {
+      "Id": "XmasLights",
       "Version": "1.2.0",
       "DownloadUrl": "https://github.com/WhistleWiz/dv-other/raw/refs/heads/main/XmasLights/v1.2.0/XmasLights.zip"
     },
